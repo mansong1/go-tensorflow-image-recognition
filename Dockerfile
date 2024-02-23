@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:1.12.0
+FROM tensorflow/tensorflow:1.13.1
 
 # Install TensorFlow C library
 RUN curl -L \
